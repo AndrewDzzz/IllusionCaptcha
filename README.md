@@ -1,5 +1,4 @@
 # IllusionCaptcha
 
-### There are some Illusion Image Samples for You to Know This CAPTCHA in ZIP File.
-
-### Due to Some Version Problem, we can only disclose some datasets in this phase.
+Here are some illusion image samples in a ZIP file to help you understand this CAPTCHA.
+Due to version constraints, only a portion of the dataset is available for disclosure at this stage.
